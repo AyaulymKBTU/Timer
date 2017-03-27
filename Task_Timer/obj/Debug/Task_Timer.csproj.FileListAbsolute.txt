@@ -1,0 +1,11 @@
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\bin\Debug\Task_Timer.exe.config
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\bin\Debug\Task_Timer.exe
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\bin\Debug\Task_Timer.pdb
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\obj\Debug\Task_Timer.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\obj\Debug\Task_Timer.MyTask.resources
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\obj\Debug\Task_Timer.Properties.Resources.resources
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\obj\Debug\Task_Timer.csproj.GenerateResource.Cache
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\obj\Debug\Task_Timer.exe
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\obj\Debug\Task_Timer.pdb
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\obj\Debug\Task_Timer.Form1.resources
+C:\Users\Compaq\Desktop\Pakita\Task_Timer\Task_Timer\obj\Debug\Task_Timer.CompTaskcs.resources
